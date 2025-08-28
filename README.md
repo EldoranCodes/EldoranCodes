@@ -36,6 +36,7 @@ Every line of code is a step in my adventure to become a legendary developer.
 ## 🛠️ My Adventurer’s Arsenal
 These are the powerful tools and spells I’ve wielded on my coding quests:
 
+- 🏰 **Java / JSP** – my trusty sword for web realms
 - ✨ **jQuery** – the magic for dynamic moves  
 - 🖌️ **Semantic UI & Bootstrap** – armor and shields for sleek designs  
 - 🗃️ **Oracle Database** – the treasure vault for storing secrets  
