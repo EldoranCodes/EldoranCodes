@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EldoranCodes
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Leonar
+- 🌱 I’m currently a junior java developer in a private company
 - 📫 How to reach me johnleonardsalinas08@gmail.com
 
 
