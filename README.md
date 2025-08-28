@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Leonar
+# 👋 Hi, I’m Leonard
 _A brave code-warrior venturing through the realms of Java_
 
 ## 🌱 Current Quest
