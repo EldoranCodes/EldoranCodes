@@ -24,6 +24,3 @@ Every line of code is a step in my adventure to become a legendary developer.
 ## 📫 How to Reach Me
  [johnleonardsalinas08@gmail.com](mailto:johnleonardsalinas08@gmail.com)
 ---
-
-
-![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldoranCodes&show_icons=true&theme=tokyonight)
