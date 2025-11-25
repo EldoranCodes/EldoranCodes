@@ -49,7 +49,6 @@ These are the powerful tools and spells I’ve wielded on my coding quests:
 ## 🏰 Future Quests
 - Master **Spring Boot** and backend realms  
 - Join forces with other dev adventurers  
-- Build my empire (**software company**)  
 
 ---
 
