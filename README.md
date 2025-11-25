@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Leonard Salinas
-_A brave code-warrior venturing through the realms of Java_
+I’m currently a **junior Java developer**, sharpening my skills and mastering the arcane arts of Java.  
+Every line of code is a step in my adventure to become a legendary developer.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -18,15 +19,10 @@ _A brave code-warrior venturing through the realms of Java_
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🌱 Current Quest
-I’m currently a **junior Java developer**, sharpening my skills and mastering the arcane arts of Java.  
-Every line of code is a step in my adventure to become a legendary developer.
 
 ---
 ## 📫 How to Reach Me
-Summon me via email: [johnleonardsalinas08@gmail.com](mailto:johnleonardsalinas08@gmail.com)
+ [johnleonardsalinas08@gmail.com](mailto:johnleonardsalinas08@gmail.com)
 ---
 
 
