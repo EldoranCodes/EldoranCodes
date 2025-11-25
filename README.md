@@ -25,47 +25,9 @@ I’m currently a **junior Java developer**, sharpening my skills and mastering 
 Every line of code is a step in my adventure to become a legendary developer.
 
 ---
-
-## ⚔️ Current Adventures
-- 🛡️ Building epic Java projects  
-- 🗺️ Exploring new frameworks and tools  
-- 🧙‍♂️ Leveling up my programming skills  
-
----
-
-## 🛠️ My Adventurer’s Arsenal
-These are the powerful tools and spells I’ve wielded on my coding quests:
-
-- 🏰 **Java / JSP** – my trusty sword for web realms
-- ✨ **jQuery** – the magic for dynamic moves  
-- 🖌️ **Semantic UI & Bootstrap** – armor and shields for sleek designs  
-- 🗃️ **Oracle Database** – the treasure vault for storing secrets  
-- 🤖 **AI Companions** – mystical familiars guiding me in my coding quests:  
-  - 🐉 **[Ollama](https://ollama.com/)** – a local arcane beast whispering knowledge from my machine  
-  - 🧙‍♂️ **[ChatGPT](https://chatgpt.com/)** – my wise mentor in the cloud, offering spells of guidance
-
----
-
-## 🏰 Future Quests
-- Master **Spring Boot** and backend realms  
-- Join forces with other dev adventurers  
-
----
-
-## 🎨 Fun Extras
-- I’m crafting my **LazyVim / Neovim config**, my magical toolkit for coding adventures  
-- Currently learning and leveling up in **Neovim**, riding my trusty “mount” in the **[Arch Linux](https://archlinux.org)  realm**, following the [HYDE](https://github.com/HyDE-Project/HyDE)  setup path
-- Experimenting with **AI via Ollama** 🐉 and **ChatGPT** 🧙‍♂️, my magical companions that help me debug, explore new spells, and stay on the right path
-- Always exploring ways to **make my coding environment portable and epic**
-
----
-
 ## 📫 How to Reach Me
 Summon me via email: [johnleonardsalinas08@gmail.com](mailto:johnleonardsalinas08@gmail.com)
-
 ---
-
-> “The journey of a thousand commits begins with a single push.” – Leonard
 
 
 ![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldoranCodes&show_icons=true&theme=tokyonight)
