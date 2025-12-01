@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Leonard Salinas
-I’m currently a **junior Java developer**, sharpening my skills and mastering the arcane arts of Java.  
-Every line of code is a step in my adventure to become a legendary developer.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
